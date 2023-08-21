@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --black-gray: #000300}
+
+body {
+  background-color: var(--black-gray);
+}
